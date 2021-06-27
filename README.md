@@ -1,9 +1,11 @@
 ### Hi developers 👋
   [![Linkedin Badge](https://img.shields.io/badge/-vaishnavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/vaishnavi-sharma-282a03211//)](https://www.linkedin.com/in/vaishnavi-sharma-282a03211)
-  [![Website Badge](https://img.shields.io/badge/StackOverflow-vaish-yellow)](https://meta.stackexchange.com/users/1026068/vaishnavi-sharma)
+  [![Website Badge](https://img.shields.io/badge/StackOverflow-vaish-yellow)](https://meta.stackexchange.com/users/1026068/vaishnavi-sharma) 
+  
   This is vaishnavi.  I'm an Enthusiastic learner  .Passionate about becoming full stack developer !
    skills : c ,java ,html ,css ,javascript 
    I'm cuurently learning : full stack wed dev 
+   
    reach me out:shastrulavaishnavisharma@gmail.com
 
 
