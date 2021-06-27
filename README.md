@@ -2,9 +2,9 @@
 This is vaishnavi.  I'm an Enthusiastic learner  .Passionate about becoming full stack developer !
    skills : c ,java ,html ,css ,javascript 
    I'm cuurently learning : full stack wed dev 
-  linkdedin account:https://www.linkedin.com/in/vaishnavi-sharma-282a03211
+  [![Linkedin Badge](https://www.linkedin.com/in/vaishnavi-sharma-282a03211)
   reach me out:shastrulavaishnavisharma@gmail.com
-  stackoverflow : https://meta.stackexchange.com/users/1026068/vaishnavi-sharma
+  [![Website Badge](https://meta.stackexchange.com/users/1026068/vaishnavi-sharma)
 
 
 <!--
