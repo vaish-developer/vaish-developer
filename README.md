@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi developers 👋
+This is vaishnavi.  I'm an Enthusiastic learner  .Passionate about becoming full stack developer !
+   skills : c ,java ,html ,css ,javascript 
+   I'm cuurently learning : full stack wed dev 
+  linkdedin account:https://www.linkedin.com/in/vaishnavi-sharma-282a03211
+  reach me out:shastrulavaishnavisharma@gmail.com
+
 
 <!--
 **vaish-developer/vaish-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
